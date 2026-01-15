@@ -49,8 +49,8 @@ Attendance is compulsory for the standups that are scheduled for every Monday, W
 **2.3 Do I need to use a specific name or email for the internship?**  
 Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Cliq, etc.) for proper tracking of your progress.
 
-**2.4 Do I need to fill attendance form everyday?** 
-Yes. Fill the form for all the days except Sunday.
+**2.4 Do I need to fill attendance form everyday?**   
+Yes. Fill the form everyday.
 
 
 ---
